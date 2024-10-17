@@ -7,7 +7,7 @@ public class Constants {
 
     public static class Regex {
 
-        public static final String CF_REGEXP = "^[A-Z]{6}\\d{2}[A-T]\\d{2}[A-Z]\\d{3}[A-Z]$";
+        public static final String CF_REGEXP = "^[A-Z]{6}\\d{2}[ABCDEHLMPRST]\\d{2}[A-Z]\\d{3}[A-Z]$";
     }
 
     public static class UtilityConstants{
